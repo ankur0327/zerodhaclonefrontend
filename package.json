@@ -34,5 +34,16 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "overrides": {
+    "svgo": {
+      "nth-check": "2.1.1"
+    },
+    "resolve-url-loader": {
+      "postcss": "8.4.49"
+    }
+  },
+  "devDependencies": {
+    "ajv": "^7.2.4"
   }
 }
